@@ -5,7 +5,7 @@ FROM nginx:alpine
 RUN rm -rf /etc/nginx/conf.d/default.conf
 
 # Copy your HTML, CSS, and any other necessary files to the Nginx web root
-COPY . /usr/share/nginx/html
+COPY /home/anand/Desktop/htmltask/html /usr/share/nginx/html
 
 # Expose port 80 for the Nginx server
 EXPOSE 80
