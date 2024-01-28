@@ -11,12 +11,12 @@ body{
 .container{
   width: 100%;
   height: 100vh;
-  background-image: url('Adi.jpg');
+  background-image: url('Ritvik1.jpeg');
   background-position: center;
   background-size: cover;
-  padding-top: 35px;
-  padding-left: 8%;
-  padding-right: 8%;
+  padding-top: 0px;
+  padding-left: 10%;
+  padding-right: 10%;
 } 
 nav{ 
   padding: 10px 0;
@@ -58,11 +58,11 @@ nav ul li a:hover{
 } 
 
 .content{
-  margin-top: 20%;
-  max-width: 600px;
+  margin-top: 25%;
+  max-width: 500px;
 } 
 .content h2{
-  font-size: 60px
+  font-size: 40px
 } 
 .content p{
   margin-top: 10px;
